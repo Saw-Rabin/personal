@@ -1,0 +1,125 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+
+
+
+.top-container{
+    padding-top: 100px;
+    background-color:rgb(91, 184, 189);
+     
+}
+
+.bottom-container{
+
+    background-color: #347c7c;
+    padding: 30px;
+}
+
+
+
+
+h1{
+    width: 30%;
+    margin:50px auto 0 auto;
+    font-family: 'Dancing Script', cursive;
+    font-size: 90px;
+    line-height: 2;
+    color: #1d5c5c;
+}
+p{
+
+    font-family: 'Bitter', serif;}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+    margin: 50px auto 0 auto;
+    
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+
+}
+#engineer{
+    margin:;
+    font-size: 200%;
+}
+
+ h2 {font-family: 'Roboto', sans-serif;
+    color: #66bfbf;
+
+ }
+ h3{font-family: 'Roboto', sans-serif;
+    color: #66bfbf
+
+ }
+ h4{
+    font-family: 'Roboto', sans-serif;
+    color: #66bfbf;
+ }
+ .mountain{
+     margin-top: 50px;
+ }
+
+.skill-row{
+     width: 50%;
+     margin:100px auto 100px auto;
+     text-align: left;
+     line-height: 2;
+     padding-left: 10px;
+ }
+
+ .chillies{
+    width: 25%;
+    float:right;
+    margin-left: 30px;
+
+
+    
+ }
+ .computer{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+ }
+
+ .pro{
+     width: 15%;
+     margin-top: 50px;
+ }
+
+ .btn {
+    background: #11999E;    
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: Verdana;
+    font-size: 15px;
+    font-weight: 100;
+    padding: 20px;    
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin: 30px auto 30px auto;
+ }
+ a{
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    margin-left: 30px;
+    margin-right: 30px;
+    color: blanchedalmond;
+ }
+
+ .contact-me{
+     margin: 30px auto 30px auto;
+;}
+     
+ 
